@@ -1,4 +1,4 @@
-![League Gothic](https://github.com/theleagueof/league-gothic/raw/master/images/league-gothic-1.png)
+![League Gothic](https://github.com/sursly/league-gothic/raw/master/images/league-gothic-1.png)
 
 League Gothic
 =============
@@ -12,6 +12,6 @@ We decided to make our own version, and contribute it to the Open Source Type Mo
 
 In October 2020 Tyler took some pandemic time to create a variable version (wdth) of League Gothic. It includes lots of improvements to individual glyph construction as well as composites (especially diacritics). Vietnamese support was added, too.
 
-![League Gothic Variable](https://github.com/theleagueof/league-gothic/raw/master/images/leaguegothicvariable.gif)
+![League Gothic Variable](https://github.com/sursly/league-gothic/raw/master/images/leaguegothicvariable.gif)
 
 Currently League Gothic Variable applies only to the condensed and normal widths (no italics). It is still a work in progress.
